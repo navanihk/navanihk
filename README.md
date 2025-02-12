@@ -8,7 +8,8 @@
 </div>
 
 
-
+<!-- platane/snk works, it just puts it on a new branch -->
+![Navani001 snake gif](https://github.com/Navani001/Navani001/blob/output/github-snake.svg)
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
