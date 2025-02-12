@@ -5,9 +5,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Navani </summary>
   </ul>
-        <ul align="center">
-    <summary><h5 style="display: inline-block">View my portfolio <a href="https://navani.vercel.app" target="_blank">Link to View</a></summary>
-  </ul>
+     
 </div>
 
 
@@ -32,6 +30,8 @@
 - 💬 Ask me about **React, Next js, Nodejs, Postges**
 
 - 📫 Feel free to reach me out **navaneetha2006krishnan@gmail.com**
+- <h5 style="display: inline-block">🚀 View my portfolio <a href="https://navani.vercel.app" target="_blank">Click to View</a>
+
 
 <!--Intro end-->
 
