@@ -33,10 +33,13 @@
 - 💬 Ask me about **React, Next js, Nodejs, Postges**
 
 - 📫 Feel free to reach me out **navaneetha2006krishnan@gmail.com**
-- 
+
 <!--Intro end-->
 
+<div align="center">
 
+   <img src="https://komarev.com/ghpvc/?username=Navani001&style=flat-square"/>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
