@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Wed development computing. So,I'm learning **Next js**
+- ☁️ I've keen interest in Web development computing. So,I'm learning **Advance Auths, Integrating ML to web, Payments **
 
 - 💬 Ask me about **React, Next js, Nodejs, Postges**
 
